@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb9eb6f35c3d2fe4199b26453d0d3bac, type: 3}
+  m_Name: Manhole
+  m_EditorClassIdentifier: 
+  itemName: Manhole
+  itemType: 4
+  itemPrefab: {fileID: 6881007042081192996, guid: 41102bf78d5e67d4797841fbafb166ca,
+    type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08d252d547d7e134d96c9acf7e6e6fe2, type: 3}
+  m_Name: SpeedMonster
+  m_EditorClassIdentifier: 
+  dropItem:
+  - {fileID: 4733498476798299403, guid: cdc8bdf960cd84841b5d8488a637c67a, type: 3}
+  - {fileID: 3201844895640611440, guid: 9257ab2d081d8b341a1ee54b2fae53fc, type: 3}
+  - {fileID: 7508852850677368866, guid: 4a64d697466766949909b4794daf3ecd, type: 3}
+  - {fileID: 7057920684266965420, guid: 4c20c2cd3fb43534a99092af0be3a8f3, type: 3}
+  coin: 15
+  maxHp: 70
+  moveSpeed: 2.4
+  damage: 1
+  stun: 0
