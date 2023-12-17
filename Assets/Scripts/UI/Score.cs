@@ -70,7 +70,7 @@ public class Score : MonoBehaviour
         {
             CreateHighScoreTransform(highScoreEntry, rank, transformList);
         }
-        Debug.LogError(PlayerPrefs.GetString("highScoreTable"));
+        //Debug.LogError(PlayerPrefs.GetString("highScoreTable"));
 
         //AddHighScoreEntry(1, "10");
         //Debug.Log(PlayerPrefs.GetString("highScoreTable"));
